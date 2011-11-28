@@ -12,6 +12,7 @@
     IBOutlet UILabel     *label1;
     IBOutlet UITextField *textField1;
     IBOutlet UIButton    *okButton;
+
 }
 
 // OKボタンが押されたときに呼ばれるメソッドの宣言

@@ -426,6 +426,7 @@
 				B2D7BDDB1480D6640007681C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B2D7BDDC1480D6640007681C /* Build configuration list for PBXNativeTarget "Sample3Tests" */ = {
 			isa = XCConfigurationList;
@@ -434,6 +435,7 @@
 				B2D7BDDE1480D6640007681C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
